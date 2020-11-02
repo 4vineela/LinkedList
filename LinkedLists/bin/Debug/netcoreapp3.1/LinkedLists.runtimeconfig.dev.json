@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\4vine\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\4vine\\.nuget\\packages"
+    ]
+  }
+}
