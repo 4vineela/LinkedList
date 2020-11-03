@@ -12,7 +12,6 @@ namespace LinkedListUnitTest
         {
             Node new_node;
             LinkedList llist = new LinkedList();
-            llist.InteractiveDemo();
             new_node = llist.NewNode(5);
             llist.SortedInsert(new_node);
             new_node = llist.NewNode(25);
@@ -26,7 +25,6 @@ namespace LinkedListUnitTest
         {
             Node new_node;
             LinkedList llist = new LinkedList();
-            llist.InteractiveDemo();
             new_node = llist.NewNode(5);
             llist.SortedInsert(new_node);
             new_node = llist.NewNode(25);
